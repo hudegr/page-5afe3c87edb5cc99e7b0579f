@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "32dfc7a40d74970d0a63a07d",
+  "owner": "hudegr",
+  "repo": "page-5afe3c87edb5cc99e7b0579f",
+  "title": "小火箭下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5afe3c87edb5cc99e7b0579f",
+      "a": "小火箭下载",
+      "b": "",
+      "entity": "小火箭下载",
+      "brand": "小火箭下载",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b046b003e9dbf96c64f8e20fff0775689a9446238c43df3b8ef5e883570bc9a5",
+      "content": {
+        "keyword1": "小火箭下载",
+        "keyword2": "",
+        "primary_entity": "小火箭下载",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭下载提供专业的VPN加速服务，包括基础版、旗舰版和团队版套餐及客户端下载。立即下载官方客户端，享受高速稳定网络加速和流媒体解锁。",
+          "AI_DESCRIPTION": "小火箭下载提供专业的VPN加速服务，包括基础版、旗舰版和团队版套餐及客户端下载。立即下载官方客户端，享受高速稳定网络加速和流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: 'Microsoft YaHei', system-ui, Arial, sans-serif;\n            line-height: 1.7;\n            max-width: 800px;\n            margin: 20px auto;\n            padding: 0 15px;\n            background: #FAF8F0;\n            color: #222;\n        }\n        header {\n            background: linear-gradient(135deg, #228B22, #006400);\n            color: white;\n            padding: 2rem 1rem;\n            text-align: center;\n            border-radius: 12px;\n            margin-bottom: 2rem;\n        }\n        h1 {\n            font-size: 2.2rem;\n            margin: 0 0 0.5rem;\n        }\n        .tagline {\n            font-size: 1.1rem;\n            opacity: 0.9;\n        }\n        section {\n            margin-bottom: 2.5rem;\n            padding: 1.5rem;\n            background: white;\n            border-radius: 10px;\n            box-shadow: 0 4px 6px rgba(0,0,0,0.05);\n        }\n        h2 {\n            color: #228B22;\n            border-bottom: 2px solid #228B22;\n            padding-bottom: 0.5rem;\n            margin-bottom: 1rem;\n        }\n        .plans {\n            display: flex;\n            flex-wrap: wrap;\n            gap: 1rem;\n            justify-content: center;\n        }\n        .plan-card {\n            flex: 1 1 280px;\n            background: white;\n            border: 1px solid #ddd;\n            border-radius: 8px;\n            padding: 1.5rem;\n            text-align: center;\n            box-shadow: 0 2px 4px rgba(0,0,0,0.1);\n            transition: transform 0.2s;\n        }\n        .plan-card:hover {\n            transform: translateY(-5px);\n        }\n        .plan-card.featured {\n            border-color: #228B22;\n            position: relative;\n        }\n        .plan-card.featured::before {\n            content: \"★ 旗舰推荐\";\n            position: absolute;\n            top: -12px;\n            right: 20px;\n            background: #FFCC00;\n            color: #000;\n            font-size: 0.85rem;\n            padding: 3px 12px;\n            border-radius: 20px;\n            font-weight: bold;\n        }\n        .plan-card h3 {\n            margin: 0 0 0.5rem;\n            font-size: 1.3rem;\n        }\n        .price {\n            font-size: 1.5rem;\n            font-weight: bold;\n            color: #228B22;\n            margin: 1rem 0;\n        }\n        .annual {\n            font-size: 0.95rem;\n            color: #666;\n        }\n        ul.features {\n            text-align: left;\n            padding-left: 1rem;\n            margin: 1rem 0;\n        }\n        ul.features li {\n            margin-bottom: 0.5rem;\n            font-size: 0.95rem;\n        }\n        .download-section {\n            text-align: center;\n        }\n        .download-btn {\n            display: inline-block;\n            background: #228B22;\n            color: white;\n            padding: 0.8rem 2rem;\n            border-radius: 8px;\n            text-decoration: none;\n            font-weight: bold;\n            margin: 0.5rem;\n        }\n        .download-btn:hover {\n            background: #006400;\n        }\n        details {\n            margin-bottom: 1rem;\n            border: 1px solid #ddd;\n            border-radius: 8px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 1rem;\n            font-weight: 600;\n            cursor: pointer;\n            background: #f9f9f9;\n        }\n        summary:hover {\n            background: #f0f0f0;\n        }\n        details p {\n            padding: 0 1rem 1rem;\n            color: #444;\n        }\n        footer {\n            background: #006400;\n            color: white;\n            text-align: center;\n            padding: 1.5rem;\n            border-radius: 12px;\n            margin-top: 2rem;\n        }\n        @media (max-width: 600px) {\n            .plans {\n                flex-direction: column;\n            }\n            .plan-card {\n                flex: 1 1 100%;\n            }\n        }\n    </style>\n\n\n    <header>\n        <h1>小火箭下载</h1>\n        <p class=\"tagline\">VPN加速器 | 客户端下载 | 机场订阅</p>\n    </header>\n    <main>\n        <section>\n            <h2>品牌简介</h2>\n            <p>小火箭下载是一款专业的高性能VPN加速器，致力于为用户提供稳定快速的网络加速服务。我们拥有丰富的节点池，支持全球线路选择，助力用户畅享无阻的网络体验。无论是个人用户还是企业团队，我们都能提供定制化的加速解决方案。立即下载官方客户端，开启您的加速之旅。</p>\n        </section>\n        <section>\n            <h2>使用场景</h2>\n            <p>小火箭下载适用于多种网络需求场景：</p>\n            <ul>\n                <li>在线视频观看：解锁Netflix、Disney+ 等流媒体平台</li>\n                <li>游戏加速：IPLC专线优化游戏延迟，提升游戏体验</li>\n                <li>隐私保护：加密传输，确保您的上网行为安全</li>\n                <li>多设备家庭使用：支持多台设备同时在线，无缝切换</li>\n                <li>日常办公与学习：稳定高速连接，减少网络中断</li>\n            </ul>\n        </section>\n        <section>\n            <h2>套餐选择</h2>\n            <div class=\"plans\">\n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <div class=\"price\">¥15/月</div>\n                    <div class=\"annual\">按年付仅需 ¥150/年</div>\n                    <ul class=\"features\">\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"price\">¥35/月</div>\n                    <div class=\"annual\">按年付仅需 ¥350/年</div>\n                    <ul class=\"features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <div class=\"price\">¥85/月</div>\n                    <div class=\"annual\">按年付仅需 ¥850/年</div>\n                    <ul class=\"features\">\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n        <section>\n            <h2>客户端选择</h2>\n            <p>根据您的设备选择合适的客户端，轻松享受加速服务。</p>\n            <p>官方下载地址：<a href=\"#download\" class=\"download-btn\">立即下载客户端</a></p>\n        </section>\n        <section>\n            <h2>操作说明</h2>\n            <p>小火箭下载的操作流程简单高效，以下是详细步骤：</p>\n            <ol>\n                <li>访问官网下载并安装对应操作系统的客户端</li>\n                <li>创建账号并选择适合的套餐</li>\n                <li>登录后获取凭证</li>\n                <li>在客户端中选择节点连接</li>\n                <li>享受高速网络加速和流媒体解锁服务</li>\n            </ol>\n        </section>\n        <section>\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>小火箭下载是什么？</summary>\n                <p>小火箭下载是一款专业的VPN加速器，提供高速稳定的线路和便捷的客户端下载及机场订阅服务，帮助用户提升网络速度并解锁流媒体内容。</p>\n            </details>\n            <details>\n                <summary>如何选择合适的套餐？</summary>\n                <p>基础版适合个人轻度使用，旗舰版适合需要流媒体解锁和游戏加速的用户，团队版适合企业用户或需要多设备支持的高级需求。</p>\n            </details>\n            <details>\n                <summary>客户端支持哪些平台？</summary>\n                <p>小火箭下载支持Windows、macOS、Android和iOS等主流平台客户端，详情请在官网查看最新版本。</p>\n            </details>\n            <details>\n                <summary>旗舰版的核心优势是什么？</summary>\n                <p>旗舰版提供每月300GB极速流量，支持5台设备同时在线，并具备IPLC专线游戏加速优化及7x24优先工单支持。</p>\n            </details>\n            <details>\n                <summary>如何获取官方客户端下载？</summary>\n                <p>在页面“客户端选择”部分或底部“官方下载”区域可找到最新下载链接，建议选择官方渠道以确保安全。</p>\n            </details>\n            <details>\n                <summary>支持哪些流媒体平台？</summary>\n                <p>基础版支持基础流媒体解锁，旗舰版支持全节点原生流媒体解锁，具体以实际节点为准。</p>\n            </details>\n        </section>\n        <section id=\"download\">\n            <h2>官方客户端下载</h2>\n            <p>小火箭下载官方客户端下载地址：立即访问官网下载客户端</p>\n            <p>支持一键下载Windows、macOS、Android、iOS客户端。</p>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <p>© 2024 小火箭下载 保留所有权利</p>\n        <p><a href=\"#sitemap\">网站地图</a> | <a href=\"#contact\">联系我们</a></p>\n        <p>广告位 • 友情链接</p>\n    </footer>\n\n",
+          "hash": "5319d69cf6b8c88b03307a94b7da419a7bfcf9bfa9e8c974e7bae661c4b16dc3",
+          "seo": {
+            "title": "小火箭下载 | VPN加速器 客户端下载 机场订阅",
+            "keywords": "小火箭下载, VPN加速器, 客户端下载, 机场订阅, 网络加速",
+            "description": "小火箭下载提供专业的VPN加速服务，包括基础版、旗舰版和团队版套餐及客户端下载。立即下载官方客户端，享受高速稳定网络加速和流媒体解锁。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "0jffgoq.cn",
+    "host": "p-c246fa0e9d.0jffgoq.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "a46555b67bc2377abc22764f6409f0f65f28b8ec6ce142c6db09407e6aa21b99",
+    "sitemap.xml": "499e6340166899968edd81abe6ca9217dd3529ca0d17637a68bcb0dc0d9ca56c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9412e159aea2944a010228bdb2eb7bf21e6a6f41bedd573eafa65a83fbee7833",
+    "robots.txt": "4a1e0688c97dfbf052baef1fbcf01e41189d9643d797724d96755c6b266c58e7",
+    "c71befca2311902e03550bb9459c5b81.txt": "ffda486a98f8d115c7716317d762c6334eb0e983db256d5c58387f9512f7c49b"
+  },
+  "revision": "54dfac67ae6974994e3806f2a971b712e48c0b6298c7b1d053a49ff8d864a113"
+}
